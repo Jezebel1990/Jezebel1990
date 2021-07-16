@@ -1,6 +1,8 @@
 ### 👩‍💻 Olá, me chamo Jezebel Guedes! Bem vindo(a) ao meu GitHub 👋 
 
-||Desenvolvedora Full Stack Java Junior||                                  ![gato2](https://user-images.githubusercontent.com/75287031/125874716-125a15e3-14b9-4592-ba1f-049a46cddff0.gif)
+||Desenvolvedora Full Stack Java Junior||               
+
+#### ![gato2](https://user-images.githubusercontent.com/75287031/125874716-125a15e3-14b9-4592-ba1f-049a46cddff0.gif)
 
 
 #### Meus contatos:
