@@ -1,4 +1,6 @@
-![gato2](https://user-images.githubusercontent.com/75287031/125874716-125a15e3-14b9-4592-ba1f-049a46cddff0.gif)
+<img align="left"  width="200px" src="https://user-images.githubusercontent.com/75287031/125874716-125a15e3-14b9-4592-ba1f-049a46cddff0.gif" />
+
+
 ### 👩‍💻 Olá, me chamo Jezebel Guedes! Bem vindo(a) ao meu GitHub 👋 
 
 ||Desenvolvedora Full Stack Java Junior||               
