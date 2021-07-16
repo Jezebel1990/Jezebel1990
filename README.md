@@ -1,6 +1,7 @@
 ### 👩‍💻 Olá, me chamo Jezebel Guedes! Bem vindo(a) ao meu GitHub 👋 
 
-||Desenvolvedora Full Stack Java Junior||
+||Desenvolvedora Full Stack Java Junior||                                  ![cat](https://user-images.githubusercontent.com/75287031/125873887-d85c2bf3-9095-41cb-bca8-e3fcefaaa250.gif)
+
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jezebel-guedes/)](https://www.linkedin.com/in/jezebel-guedes/)
