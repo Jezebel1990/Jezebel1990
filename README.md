@@ -1,4 +1,4 @@
-<img align="right"  width="400px" src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" />
+<img align="right"  width="400px" src="https://media.giphy.com/media/r9z3gLYAsJCQfMhdav/giphy.gif" />
 
 #### 👩‍💻 Olá, me chamo Jezebel Guedes! Bem vindo(a) ao meu GitHub 👋 
 
