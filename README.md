@@ -2,7 +2,12 @@
 
 #### 👩‍💻 Olá, me chamo Jezebel Guedes! Bem vindo(a) ao meu GitHub 👋 
 
-||Desenvolvedora Full Stack Junior||               
+[<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/)
+
+||**Desenvolvedora JAVA Fullstack Jr.**|| \
+[**Generation Brasil**](https://brazil.generation.org/) â€¢ PerÃ­odo integral â€¢ ConcluÃ­do Jun/2021 \
+Linguagens, Frameworks, Ferramentas e outros: `Java`, `API Restful`, `Spring Boot`, `Postman`, `SQL Server Management Studio`, `Visual Studio Code`, `Git/GitHub`, `Scrum`
+<br>Projeto FullStack: [RepositÃ³rio](https://github.com/LuaBezana/eCommerceGeneration), [Site](https://hw-tshirts.netlify.app/)</br>
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jezebel-guedes/)](https://www.linkedin.com/in/jezebel-guedes/)
