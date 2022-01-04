@@ -6,8 +6,7 @@
 
 || **Desenvolvedora JAVA Fullstack Jr.** || \
 [**Generation Brasil**](https://brazil.generation.org/) • Período integral • Concluído em: Jun/2021 \
-Linguagens, Frameworks, Ferramentas e outros:`Java`, `API Restful`, `Spring Boot`, `Postman`, `SQL Server Management Studio`, `Visual Studio Code`, `Git/GitHub`, `Scrum`
-
+Linguagens, Frameworks, Ferramentas e outros:`Java` `API Restful` `Spring Boot` `Postman` `SQL Server Management Studio` `Visual Studio Code` `Git/GitHub` `Scrum`
 
 <br>Projeto FullStack: [Repositório](https://github.com/LuaBezana/eCommerceGeneration), [Site](https://hw-tshirts.netlify.app/)</br>
 
