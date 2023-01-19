@@ -8,7 +8,7 @@
 [**Generation Brasil**](https://brazil.generation.org/) • Período integral • Concluído em: Jun/2021 \
 Linguagens, Frameworks, Ferramentas e outros:`Java` `API Restful` `Spring Boot` `Postman` `SQL Server Management Studio` `Visual Studio Code` `Git/GitHub` `Scrum`
 
-<br>Projeto FullStack: [Repositório](https://github.com/LuaBezana/eCommerceGeneration), [Site](https://hw-tshirts.netlify.app/)</br>
+<br>Projeto FullStack: [Portfólio](https://jezebel-guedes.netlify.app/)</br>
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jezebel-guedes/)](https://www.linkedin.com/in/jezebel-guedes/)
