@@ -35,8 +35,7 @@ Linguagens, Frameworks, Ferramentas e outros:`Java` `API Restful` `Spring Boot` 
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
-<img align="left"  width="400px" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Jezebel1990&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Jezebel1990&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
 <!--
 **Jezebel1990/Jezebel1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
