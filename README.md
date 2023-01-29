@@ -8,7 +8,8 @@
 [**Generation Brasil**](https://brazil.generation.org/) • Período integral • Concluído em: Jun/2021 \
 Linguagens, Frameworks, Ferramentas e outros:`Java` `JavaScript` `API Restful` `Spring Boot` `MySQL` `Angular` `Visual Studio Code` `Git/GitHub` `Scrum`
 
-<br>FullStack Projects: [Portfólio](https://jezebel-guedes.netlify.app/)</br>
+# 🌐 Full Stack Projects: 
+[Portfólio](https://jezebel-guedes.netlify.app/)</br>
 
 #### My contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jezebel-guedes/)](https://www.linkedin.com/in/jezebel-guedes/)
