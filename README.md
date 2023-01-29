@@ -5,7 +5,7 @@
 [<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/)
 
 || **Desenvolvedora JAVA Fullstack Jr.** || \
-[**Generation Brazil**](https://brazil.generation.org/) • Período integral • Concluído em: Jun/2021 \
+[**Generation Brasil**](https://brazil.generation.org/) • Período integral • Concluído em: Jun/2021 \
 Linguagens, Frameworks, Ferramentas e outros:`Java` `API Restful` `Spring Boot` `Postman` `SQL Server Management Studio` `Visual Studio Code` `Git/GitHub` `Scrum`
 
 <br>Projetos FullStack: [Portfólio](https://jezebel-guedes.netlify.app/)</br>
