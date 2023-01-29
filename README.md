@@ -35,6 +35,23 @@ Linguagens, Frameworks, Ferramentas e outros:`Java` `API Restful` `Spring Boot` 
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jezebel1990&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jezebel1990&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jezebel1990&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jezebel1990&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Jezebel1990&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/Jezebel1990/Jezebel1990/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <!--
 **Jezebel1990/Jezebel1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
