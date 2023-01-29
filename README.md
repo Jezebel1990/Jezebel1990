@@ -13,7 +13,6 @@ Linguagens, Frameworks, Ferramentas e outros:`Java` `JavaScript` `API Restful` `
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jezebel-guedes/)](https://www.linkedin.com/in/jezebel-guedes/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511957333990&text=Olá!)](https://api.whatsapp.com/send?phone=5511957333990&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jezebelguedes@gmail.com)](mailto:jezebelguedes@gmail.com)
-[Portfólio](https://jezebel-guedes.netlify.app/)
 
 
 # 💻 Tech Stack:
