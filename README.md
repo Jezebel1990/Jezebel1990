@@ -1,6 +1,6 @@
 <img align="right"  width="350px" src="https://media.giphy.com/media/r9z3gLYAsJCQfMhdav/giphy.gif" />
 
-#### 👩‍💻 Hi, my name is Jezebel Guedes! Welcome to my GitHub 👋 
+# 👩‍💻 Hi, my name is Jezebel Guedes! Welcome to my GitHub 👋 
 
 [<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/)
 
