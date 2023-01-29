@@ -44,8 +44,8 @@ Linguagens, Frameworks, Ferramentas e outros:`Java` `API Restful` `Spring Boot` 
 ![](https://github-profile-trophy.vercel.app/?username=Jezebel1990&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Jezebel1990&label=https%3A%2F%2Fgithub.com%2FJezebel1990&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=Jezebel1990&label=https%3A%2F%2Fgithub.com%2FJezebel1990&color=11&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
