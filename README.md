@@ -3,7 +3,7 @@
 # 👩‍💻 Hi devs, I'm Jezebel Guedes!
 # Welcome to my GitHub 👋 
 
-[<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/)
+<!-- [<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/) -->
 
 || **Developer Fullstack Jr.** || \
 I’m working as web dev since 2021. Since then, I love learning new technologies and helping people whenever I can. Feel free to ask me anything!
