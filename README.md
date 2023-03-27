@@ -6,7 +6,7 @@
 [<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/)
 
 || **JAVA Developer Fullstack Jr.** || \
-[**Generation Brasil**](https://brazil.generation.org/) • Completed on: Jun/2021 \
+[**Generation Brasil**](https://brazil.generation.org/) • Completed on: Jun/2021 
 
 Technologies:`Java` `JavaScript` `API Restful` `Spring Boot` `MySQL` `Angular` `Visual Studio Code` `Git/GitHub` `Scrum`
 
