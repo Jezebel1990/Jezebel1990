@@ -10,9 +10,9 @@
   <p align="center">I’ve been working as a web dev since 2021. Since then, I love learning new technologies and helping people whenever I can. Feel free to ask me anything!</p>
 
   <h2 align="center">🌐 My contacts:</h2>
-
-  <img width="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRleW02aG1iejAwcnltNWlhNHJjcm8xZDIyMmdoZDA4OXQybGlvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
-
+ 
+  <img align="center" width="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRleW02aG1iejAwcnltNWlhNHJjcm8xZDIyMmdoZDA4OXQybGlvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+   
   <p align="center">
     <a href="https://www.linkedin.com/in/jezebel-guedes/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
@@ -50,9 +50,9 @@
 
   <h2 align="center">📊 GitHub Stats:</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jezebel1990&theme=transparent&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jezebel1990&theme=transparent&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jezebel1990&bg_color=6A3E73&border_color=6A3E73&title_color=fcc7e7&text_color=FFF"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jezebel1990&bg_color=6A3E73&border_color=6A3E73&title_color=fcc7e7&text_color=FFF"/>
 
   <h2 align="center">🏆 GitHub Trophies:</h2>
 
@@ -75,7 +75,7 @@
 
   <h2 align="center">👀 Total Views:</h2>
 
-  <img src="https://visitcount.itsvg.in/api?id=Jezebel1990&label=Profile%20Views&color=11&icon=5&pretty=true"/>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=Jezebel1990&label=Profile%20Views&color=11&icon=5&pretty=true"/>
 </div>
 
 <p align="center" style="max-width: 800px; margin: 0 auto;">
