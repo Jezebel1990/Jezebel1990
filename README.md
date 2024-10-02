@@ -10,9 +10,9 @@
   <p align="center">I’ve been working as a web dev since 2021. Since then, I love learning new technologies and helping people whenever I can. Feel free to ask me anything!</p>
 
   <h2 align="center">🌐 My contacts:</h2>
- 
-  <img align="center" width="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRleW02aG1iejAwcnltNWlhNHJjcm8xZDIyMmdoZDA4OXQybGlvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
-   
+ <div align="center">
+  <img  width="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRleW02aG1iejAwcnltNWlhNHJjcm8xZDIyMmdoZDA4OXQybGlvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+</div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/jezebel-guedes/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
