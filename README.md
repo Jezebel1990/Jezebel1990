@@ -69,6 +69,9 @@
   <a href="https://github.com/Jezebel1990/react-dogs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jezebel1990&repo=react-dogs&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
   </a>
+    <a href="https://github.com/Jezebel1990/my-trips">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jezebel1990&repo=my-trips&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
+  </a>
 
   <h2>👀 Total Views:</h2>
 
