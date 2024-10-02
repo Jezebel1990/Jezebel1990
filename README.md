@@ -78,4 +78,3 @@
 <p align="center" style="max-width: 800px; margin: 0 auto;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" style="width: 100%; max-width: 800px;"/>
 </p>
-
