@@ -55,11 +55,11 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jezebel1990&bg_color=6A3E73&border_color=6A3E73&title_color=fcc7e7&text_color=FFF"/>
 </div>
   <h2 align="center">🏆 GitHub Trophies:</h2>
-
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jezebel1990&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true"/>
-
+</div>
   <h2 align="center">🎨 Projects:</h2>
-
+<div align="center">
   <a href="https://github.com/Jezebel1990/metaverse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jezebel1990&repo=metaverse&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
   </a>
@@ -72,10 +72,11 @@
     <a href="https://github.com/Jezebel1990/my-trips">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jezebel1990&repo=my-trips&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
   </a>
+</div>
 
   <h2 align="center">👀 Total Views:</h2>
-
-  <img align="center" src="https://visitcount.itsvg.in/api?id=Jezebel1990&label=Profile%20Views&color=11&icon=5&pretty=true"/>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Jezebel1990&label=Profile%20Views&color=11&icon=5&pretty=true"/>
 </div>
 
 <p align="center" style="max-width: 800px; margin: 0 auto;">
