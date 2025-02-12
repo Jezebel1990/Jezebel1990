@@ -76,7 +76,7 @@
 
   <h2 align="center">👀 Total Views:</h2>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jezebel1990&label=Profile%20Views&color=11&icon=5&pretty=true"/>
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 </div>
 
 <p align="center" style="max-width: 800px; margin: 0 auto;">
