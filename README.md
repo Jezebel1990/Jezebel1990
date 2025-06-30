@@ -51,8 +51,6 @@
   <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jezebel1990&theme=transparent&bg_color=6A3E73&border_color=6A3E73&show_icons=true&icon_color=fcc7e7&title_color=fcc7e7&text_color=FFF"/>
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jezebel1990&bg_color=6A3E73&border_color=6A3E73&title_color=fcc7e7&text_color=FFF"/>
 </div>
   <h2 align="center">🏆 GitHub Trophies:</h2>
 <div align="center">
