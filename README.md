@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6"/>
     <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
