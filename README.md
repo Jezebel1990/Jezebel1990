@@ -6,7 +6,7 @@
 <h1 align="center"><span style="color: #6A3E73;">👩‍💻 Hello, I'm Jezebel Guedes!</span></h1>
   <h2 align="center">Welcome to my GitHub 👋</h2>
 
-  <p align="center">|| <strong>Front end developer</strong> ||</p>
+  <p align="center">|| <strong>Developer</strong> ||</p>
   <p align="center">I’ve been working as a web dev since 2021. Since then, I love learning new technologies and helping people whenever I can. Feel free to ask me anything!</p>
 
   <h2 align="center">🌐 My contacts:</h2>
