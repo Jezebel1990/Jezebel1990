@@ -2,7 +2,9 @@
 
 ## 🧬 About Me
 👋 Hi, I'm **Jezebel Guedes**, a **full-stack developer** since 2021 with a degree in **Information Technology**. My diverse background in Biology and Environmental Technology helps me create **user-centered solutions** with empathy.
-  ![Divider](./assets/lineBar.png)
+
+![Divider](https://i.imgur.com/7HGzDLY.png)
+
 
 ## 📊 GitHub Analytics
 
@@ -11,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jezebel1990&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
-  ![Divider](./assets/lineBar.png)
+![Divider](https://i.imgur.com/7HGzDLY.png)
 
 ## 🌐 Connect With Me
 
@@ -27,8 +29,7 @@
     </a>
   </p>
 
-  ![Divider](./assets/lineBar.png)
-
+![Divider](https://i.imgur.com/7HGzDLY.png)
 
 
 
@@ -53,8 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-
-![Divider](./assets/lineBar.png)
+![Divider](https://i.imgur.com/7HGzDLY.png)
 
 ## 🚀 Featured Projects
 
@@ -73,7 +73,7 @@
 
 </div>
 
-  ![Divider](./assets/lineBar.png)
+![Divider](https://i.imgur.com/7HGzDLY.png)
 
 ## 📈 Profile Views
 
