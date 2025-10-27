@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](https://i.imgur.com/cNenWvI.png)
 
 ## 🧬 About Me
 👋 Hi, I'm **Jezebel Guedes**, a **full-stack developer** since 2021 with a degree in **Information Technology**. My diverse background in Biology and Environmental Technology helps me create **user-centered solutions** with empathy.
@@ -83,7 +83,7 @@
 
 </div>
 
-![Divider](./assets/lineBar.png)
+![Divider](https://i.imgur.com/7HGzDLY.png)
 
 <div align="center">
   
